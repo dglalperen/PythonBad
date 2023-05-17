@@ -1,14 +1,18 @@
 # Badly named class
-class thing():
+class Thing():
     def __init__(self, a):
         self.a = a
 
 # Badly named class
-class something():
+
+
+class Something():
     def __init__(self, a):
         self.a = a
-        
+
 # Badly named class
-class badclass():
+
+
+class BadClass():
     def __init__(self, a):
         self.a = a
